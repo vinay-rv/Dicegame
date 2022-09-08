@@ -13,6 +13,6 @@ if(randonNumber1>randomNumber2){
 }else if(randonNumber1<randomNumber2){
     document.querySelector("h1").innerHTML="Player 2 Wins";
 }else{
-    document.querySelector("h1").innerHTML="Draw";
+    document.querySelector("h1").innerHTML="Ties";
 };
 }
